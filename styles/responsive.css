@@ -1,0 +1,933 @@
+@media all and (min-device-width: 1920px){
+    body {
+        background-color: #565656;
+        padding: 0;
+        height: 1080px;
+        width: 1990px;
+        overflow: hidden;
+      }
+      
+};
+
+@media all and (min-device-width: 1367px);{
+    body {
+        background-color: #565656;
+        padding: 0;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+      } 
+}
+
+@media all and (min-device-width: 1366px) and (max-device-width: 1439px);{
+    body {
+        background-color: #565656;
+        padding: 0;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+      }
+} 
+   
+@media all and (min-device-width: 1024px) and (max-device-width: 1365px){
+    body {
+        background-color: #565656;
+        padding: 0;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+      }
+
+      
+
+    .text3 {left: 88vw; top: 68vw; font-size: 3.7vw;}
+
+    .knopka {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .knopka2 {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .knopka3 {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .slova2 { top: 4vw; left: 44vw;}
+
+    .slova3 { top: 4vw; left: 44vw;}
+
+    .text5 { left: 57.5vw; top: 14.8vw;}
+
+    .text8 { left: 57.5vw; top: 14.8vw;}
+
+    .text11 { left: 53.5vw; top: 15.8vw;}
+
+    .cat {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .catchelka {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .catnew {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .cat5 {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .text2 {top: 15.6vw;}
+
+    .move {top: 11vw;}
+
+    .welldone {top:11vw;}
+
+    .floors {top:11vw;}
+
+    .another {top:11vw;}
+
+    .podskazka2 {top: -2vw; transform: scale(1.1);}
+
+    .barmen {top: -2vw; transform: scale(1.1);}
+
+    .false {top: -2vw; transform: scale(1.1);}
+
+    .knopkastop {top:54vw; transform: scale(1.3);}
+
+    .knopkastop3 {top:54vw; transform: scale(1.3);}
+
+    .knopkastop5 {top:65vw; transform: scale(1.3);}
+
+    .knopkastop2 {top:54vw; transform: scale(1.3);}
+
+    .knopkaplay2 {top:54vw; transform: scale(1.3);}
+
+    .knopkaplay {top:54vw; transform: scale(1.3);}
+
+    .knopkanext {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext3 {top:65vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext4 {top:55vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext2 {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .text15 {top:2vw;}
+
+    .text12 {font-size: 3.7vw; left: 20vw; top: 55vw;}
+
+    .say4 {left: 8vw; transform: scale(1.3);}
+
+    .say3 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .say5 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .say7 {left: 5vw; top: 4vw; transform: scale(1.3);}
+
+    .say6 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .text6 {left: 18vw;  transform: scale(1.3);}
+
+    .text13 {left: 18vw; top:12; transform: scale(1.3);}
+
+    .text14 {left: 18vw;  transform: scale(1.3);}
+
+    .text10 {left: 18vw;  transform: scale(1.3);}
+
+    .text4 {left: 18vw; top: 15vw; transform: scale(1.3);}
+
+    .text9 {left: 18vw; top: 15vw; transform: scale(1.3);}
+
+    .catbar {top: 38.92vw; transform: scale(1.3);}
+
+    .catbar2 {top: 38.92vw; transform: scale(1.3);}
+
+    .catbar3 {top: 38.92vw; transform: scale(1.3);}
+
+    .bar {top: 51vw;}
+
+    .bar2 {top: 51vw;}
+
+    .bar3 {top: 51vw;}
+
+    .catwant { left:55vw; top: 10vw;transform: scale(1.1);}
+
+    .wiskey {left: 88vw; top: 44vw;}
+
+    .bleizer {top:43vw;}
+
+    .wine {top:40vw;}
+
+    .coke2 {top:46vw;}
+
+    .rome {top:41vw;}
+
+    .cathappy {top:11vw;transform: scale(1.1);}
+
+    .napitok {top:42vw;}
+
+    .catagro {top:9vw;scale(1.1);}
+
+    .knopkareplay {top: 61.5vw; left: 88vw;transform: scale(1.1);}
+
+    .komnata1 {top:11vw;}
+
+    .komnata2 {top:11vw;}
+
+    .komnata3 {top:11vw;}
+
+    .welldone3 {top:11vw;}
+
+    .knopkastop6 {top: 55vw; left: 3vw; transform: scale(1.3);}
+
+    .catstart1 {top: 40vw;transform: scale(1.1);}
+
+    .catstart4 {top: 44vw;transform: scale(1.1);}
+
+    .kotopadik {top: 28vw; left:25vw;transform: scale(1.3);}
+
+    .textmini {left: 76.5vw; top: 28.2vw;}
+}; 
+
+@media all and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
+    body {
+        background-color: #565656;
+        padding: 0;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+      }
+
+      
+
+    .text3 {left: 88vw; top: 68vw; font-size: 3.7vw;}
+
+    .knopka {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .knopka2 {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .knopka3 {top: 66.5vw;transform: scale(1.3);left: 80.32vw;}
+
+    .slova2 { top: 4vw; left: 44vw;}
+
+    .slova3 { top: 4vw; left: 44vw;}
+
+    .text5 { left: 57.5vw; top: 14.8vw;}
+
+    .text8 { left: 57.5vw; top: 14.8vw;}
+
+    .text11 { left: 53.5vw; top: 15.8vw;}
+
+    .cat {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .catchelka {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .catnew {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .cat5 {top: 23vw; left: 21vw; transform: scale(1.3);}
+
+    .text2 {top: 15.6vw;}
+
+    .move {top: 11vw;}
+
+    .welldone {top:11vw;}
+
+    .floors {top:11vw;}
+
+    .another {top:11vw;}
+
+    .podskazka2 {top: -2vw; transform: scale(1.1);}
+
+    .barmen {top: -2vw; transform: scale(1.1);}
+
+    .false {top: -2vw; transform: scale(1.1);}
+
+    .knopkastop {top:54vw; transform: scale(1.3);}
+
+    .knopkastop3 {top:54vw; transform: scale(1.3);}
+
+    .knopkastop5 {top:65vw; transform: scale(1.3);}
+
+    .knopkastop2 {top:54vw; transform: scale(1.3);}
+
+    .knopkaplay2 {top:54vw; transform: scale(1.3);}
+
+    .knopkaplay {top:54vw; transform: scale(1.3);}
+
+    .knopkanext {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext3 {top:65vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext4 {top:55vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext2 {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .knopkanext {top:54vw; left: 12vw; transform: scale(1.3);}
+
+    .text15 {top:2vw;}
+
+    .text12 {font-size: 3.7vw; left: 20vw; top: 55vw;}
+
+    .say4 {left: 8vw; transform: scale(1.3);}
+
+    .say3 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .say5 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .say7 {left: 5vw; top: 4vw; transform: scale(1.3);}
+
+    .say6 {left: 7vw; top: 4vw; transform: scale(1.3);}
+
+    .text6 {left: 18vw;  transform: scale(1.3);}
+
+    .text13 {left: 18vw; top:12; transform: scale(1.3);}
+
+    .text14 {left: 18vw;  transform: scale(1.3);}
+
+    .text10 {left: 18vw;  transform: scale(1.3);}
+
+    .text4 {left: 18vw; top: 15vw; transform: scale(1.3);}
+
+    .text9 {left: 18vw; top: 15vw; transform: scale(1.3);}
+
+    .catbar {top: 38.92vw; transform: scale(1.3);}
+
+    .catbar2 {top: 38.92vw; transform: scale(1.3);}
+
+    .catbar3 {top: 38.92vw; transform: scale(1.3);}
+
+    .bar {top: 51vw;}
+
+    .bar2 {top: 51vw;}
+
+    .bar3 {top: 51vw;}
+
+    .catwant { left:55vw; top: 10vw;transform: scale(1.1);}
+
+    .wiskey {left: 88vw; top: 44vw;}
+
+    .bleizer {top:43vw;}
+
+    .wine {top:40vw;}
+
+    .coke2 {top:46vw;}
+
+    .rome {top:41vw;}
+
+    .cathappy {top:11vw;transform: scale(1.1);}
+
+    .napitok {top:42vw;}
+
+    .catagro {top:9vw;scale(1.1);}
+
+    .knopkareplay {top: 61.5vw; left: 88vw;transform: scale(1.1);}
+
+    .komnata1 {top:11vw;}
+
+    .komnata2 {top:11vw;}
+
+    .komnata3 {top:11vw;}
+
+    .welldone3 {top:11vw;}
+
+    .knopkastop6 {top: 55vw; left: 3vw; transform: scale(1.3);}
+
+    .catstart1 {top: 40vw;transform: scale(1.1);}
+
+    .catstart4 {top: 44vw;transform: scale(1.1);}
+
+    .kotopadik {top: 28vw; left:25vw;transform: scale(1.3);}
+
+    .textmini {left: 76.5vw; top: 28.2vw;}
+}
+
+@media (min-device-width: 390px) and (max-device-width: 768px) {
+ 
+ .movetexture {height: 217vw;}
+ .texture {height: 217vw;}
+ .catstart1 {       width: 106vw;
+  height: 98vw;
+  top: 98vw;
+  left: -31vw;
+rotate: 20deg;}
+  .catstart4 {    width: 77vw;
+    height: 79.5vw;
+    top: 160vw;
+    left: 30vw;}
+.kotopadik {    
+  width: 87vw;
+  height: 28vw;
+  top: 85vw;
+  left: 4vw;
+}
+.textmini{
+  font-size: 3.5vw;
+  left: 68.5vw;
+  top: 111.3vw;
+}
+
+.catstart3 {
+  width: 94vw;
+  height: 75.5vw;
+  top: -12vw;
+  left: -31vw;
+  rotate: -40deg;
+}
+
+.catstart2 {
+  width: 70vw;
+  height: 33.5vw;
+  top: 33vw;
+  left: 51vw;
+  rotate: 90deg;
+}
+
+.cat {    
+  width: 81vw;
+  height: 72vw;
+  top: 72vw;
+  left: 0vw;
+}
+
+.catchelka {    
+  width: 79vw;
+  height: 76vw;
+  top: 72vw;
+  left: 0vw;
+}
+
+.cat5 {    
+  width: 79vw;
+  height: 76vw;
+  top: 72vw;
+  left: 0vw;
+}
+
+.catnew {    
+  width: 79vw;
+  height: 76vw;
+  top: 72vw;
+  left: 0vw;
+}
+.slova {
+  width: 56vw;
+  height: 40vw;
+  top: 47vw;
+  left: 43vw;
+}
+.slova2 {
+  width: 57vw;
+  height: 39vw;
+  top: 47vw;
+  left: 43vw;
+}
+
+.slova3 {
+  width: 57vw;
+  height: 39vw;
+  top: 47vw;
+  left: 43vw;
+}
+.text1{
+  font-size: 2.8vw;
+  left: 53.5vw;
+  top: 60.8vw;
+}
+.text2{
+  font-size: 3vw;
+  left: 61.5vw;
+  top: 62.8vw;
+}
+
+.text5{
+  font-size: 3vw;
+  left: 59.5vw;
+  top: 61.8vw;
+}
+
+.text11{
+  font-size: 2.9vw;
+  left: 52.5vw;
+  top: 61.8vw;
+}
+
+.text8{
+  font-size: 2.8vw;
+  left: 57.5vw;
+  top: 62.8vw;
+}
+
+.knopka{
+  top: 198.5vw;
+  left: 3.3vw;
+  width: 16vw;
+  height: 16vw;
+}
+
+.knopka2{
+  top: 198.5vw;
+  left: 3.3vw;
+  width: 16vw;
+  height: 16vw;
+}
+
+.knopka3{
+  top: 198.5vw;
+  left: 3.3vw;
+  width: 16vw;
+  height: 16vw;
+}
+
+.text3 {
+  font-size: 7vw;
+  left: 21vw;
+  top: 204vw;
+}
+
+.move {top: 65vw; transform: scale(1.6);}
+
+.floors {top: 65vw; left: 2vw;transform: scale(1.6);}
+
+.another {top: 65vw; left: 2vw;transform: scale(1.6);}
+
+.komnata1 {top: 48vw; left: 2vw;transform: scale(1.6);}
+
+.komnata2 {top: 48vw; left: 2vw;transform: scale(1.6);}
+
+
+.welldone {top: 65vw; transform: scale(1.6);}
+
+.knopkastop2 {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 82.5vw;
+  left: 20vw;
+}
+
+.knopkastop7 {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 4.5vw;
+  left: 3vw;
+}
+
+.knopkaplay2 {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 82.5vw;
+  left: 20vw;
+}
+
+.knopkareplay {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 4.5vw;
+  left: 87vw;
+}
+
+.knopkanext2 {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 82.5vw;
+  left: 31vw;
+}
+
+.knopkanext5 {
+  width: 9.76vw;
+  height: 9.76vw;
+  top: 4.5vw;
+  left: 15vw;
+}
+
+.say3 {
+  width:65vw;
+  height: 45vw;
+  top: 20vw;
+  left: 1vw;
+}
+
+.say6 {
+  width: 43vw;
+  height: 29vw;
+  top: -30vw;
+  left: 12vw;
+}
+
+.text4 {
+  font-size: 3.7vw;
+  left: 15vw;
+  top: 41vw;
+}
+
+.text14 {
+  font-size: 2.7vw;
+  left: 27vw;
+  top: -19vw;
+}
+
+.text9 {
+  font-size: 3.7vw;
+  left: 15vw;
+  top: 41vw;
+}
+.text12 {
+  font-size: 5vw;
+  left: 42vw;
+  top: 85vw;
+}
+
+.catbar {
+  width: 76.92vw;
+  height: 65.42vw;
+  top: 154.9vw;
+  left: 19.42vw;
+}
+
+.catbar2 {
+  width: 76.92vw;
+  height: 65.42vw;
+  top: 154.9vw;
+  left: 19.42vw;
+}
+
+.catbar3 {
+  width: 76.92vw;
+  height: 65.42vw;
+  top: 154.9vw;
+  left: 19.42vw;
+}
+
+.bar {
+  height: 24.65vw;
+  top: 135vw;
+  left: 0vw;
+}
+
+.bar2 {
+  height: 24.65vw;
+  top: 135vw;
+  left: 0vw;
+}
+
+.bar3 {
+  height: 24.65vw;
+  top: 135vw;
+  left: 0vw;
+}
+
+.say4 {
+  width: 85.1vw;
+  height: 46vw;
+  top: 33vw;
+  left: 1vw;
+}
+
+.text6 {
+  font-size: 5vw;
+  left: 23vw;
+  top: 46vw;
+}
+
+.catwant {
+  width: 74vw;
+  height: 62vw;
+  left: 33vw;
+  top: 75vw;
+}
+
+.cathappy {
+  width: 74vw;
+  height: 62vw;
+  left: 33vw;
+  top: 75vw;
+}
+
+.catagro {
+  width: 74vw;
+  height: 70vw;
+  left: 33vw;
+  top: 69vw;
+}
+
+.whatwant {
+  width: 59vw;
+  height: 49vw;
+  left: 1vw;
+  top: 52vw;
+}
+
+.coke {
+  width: 11.4vw;
+  height: 14.4vw;
+  left: 20vw;
+  top: 68vw;
+}
+.wine{
+  width: 10.4vw;
+  height: 28vw;
+  left: 66vw;
+  top: 126vw;
+}
+
+.bleizer{
+  width: 9.3vw;
+  height: 30vw;
+  left: 84vw;
+  top: 118vw;
+}
+
+.wiskey {
+  width: 12.4vw;
+  height: 22vw;
+  left: 44vw;
+  top: 130vw;
+}
+
+.coke2 {
+  width: 14.3vw;
+  height: 18vw;
+  left: 18vw;
+  top: 137vw;
+}
+
+.rome {
+  width: 9.9vw;
+  height: 31vw;
+  left: 3vw;
+  top: 116vw;
+}
+
+.text7 {
+  font-size: 12vw;
+  left: 7vw;
+  top: 67vw;
+}
+
+.napitok {
+  width: 15.3vw;
+  height: 23.3vw;
+  left: 54vw;
+  top: 123vw;
+}
+
+.text16{
+  font-size: 7vw;
+  left: 27vw;
+  top: 6vw;
+
+}
+
+.bigfloor {
+  width: 164vw;
+  height: 76vw;
+  top: -9vw;
+  left: -3vw;
+}
+
+.bigfloor2 {
+  width: 164vw;
+  height: 76vw;
+  top: -9vw;
+  left: -3vw;
+}
+.say5 {
+  width: 37.1vw;
+  height: 24.3vw;
+  top: -27vw;
+  left: 17vw;
+}
+
+.text10 {
+  left: 26vw;
+  top: -18vw;
+}
+
+.disco {
+  top: -9.7vw;
+}
+.disco2 {
+  top: -9.7vw;
+}
+.disco22 {
+  top: -9.7vw;
+}
+.disco222 {
+  top: -9.7vw;
+}
+
+.dj {
+  width: 63vw;
+  height: 35.2vw;
+  top: 49vw;
+  left: 17vw;
+}
+.dj2 {
+  width: 63vw;
+  height: 35.2vw;
+  top: 49vw;
+  left: 17vw;
+}
+.dj3 {
+  width: 63vw;
+  height: 35.2vw;
+  top: 49vw;
+  left: 17vw;
+}
+.dj22 {
+  width: 63vw;
+  height: 35.2vw;
+  top: 49vw;
+  left: 17vw;
+}
+.bin {
+  width: 8.4vw;
+  height: 8vw;
+  top: 28vw;
+  left: 69vw;
+}
+
+.bottle1 {
+  width: 5vw;
+  height: 6.3vw;
+  top: 55vw;
+  left: 39vw;
+}
+
+.bottle32 {
+  width: 4vw;
+  height: 5.3vw;
+  top: 57vw;
+  left: 36vw;
+}
+
+.bottle12 {
+  width: 5vw;
+  height: 6.3vw;
+  top: 43vw;
+  left: 39vw;
+}
+
+.bottle22 {
+  width: 5vw;
+  height: 6.3vw;
+  top: 50vw;
+  left: 56vw;
+}
+
+.bottle42 {
+  width: 4vw;
+  height: 5.3vw;
+  top: 59vw;
+  left: 51vw;
+}
+
+.paper52 {
+  width: 3vw;
+  height: 3vw;
+  top: 54vw;
+  left: 45vw;
+}
+
+.bin2 {
+  width: 9.4vw;
+    height: 9vw;
+    top: 29vw;
+    left: 64vw;
+}
+
+.welldone3 {
+  top: 73vw;
+}
+
+.lines {
+  width: 127vw;
+  height: 136vw;
+  top: 41vw;
+  left: 0vw;
+}
+
+.sofa {    
+  width: 62vw;
+  height: 31.2vw;
+  top: 99vw;
+  left: 37vw;
+}
+.normsofa {    
+  width: 62vw;
+  height: 31.2vw;
+  top: 99vw;
+  left: 37vw;
+}
+
+.window {
+  width: 28vw;
+  height: 29.2vw;
+  top: 63vw;
+  left: 38vw;
+
+}
+
+.normokno {
+  width: 28vw;
+  height: 29.2vw;
+  top: 63vw;
+  left: 38vw;
+
+}
+
+.pautina3 {
+  width: 25vw;
+  height: 21.5vw;
+  top: 41vw;
+  left: 76vw;
+}
+
+.vanna {
+  width: 59vw;
+  height: 45.2vw;
+  top: 122vw;
+  left: 0vw;
+}
+
+.normvanna {
+  width: 59vw;
+  height: 45.2vw;
+  top: 122vw;
+  left: 0vw;
+}
+
+.luzha{
+  width: 29vw;
+  height: 14.2vw;
+  top: 142vw;
+  left: 67vw;
+}
+
+.luzha2 {
+  width: 26vw;
+  height: 12.5vw;
+  top: 161vw;
+  left: 21vw;
+}
+
+.lamp2 {
+  width: 9vw;
+  height: 51.2vw;
+  top: 41vw;
+  left: 73vw;
+}
+
+.normlampa2 {
+  width: 9vw;
+  height: 51.2vw;
+  top: 41vw;
+  left: 73vw;
+}
+
+.lamp1 {
+  width: 8vw;
+  height: 44.2vw;
+  top: 41vw;
+  left: 15vw;
+}
+
+.normlampa1 {
+  width: 8vw;
+  height: 44.2vw;
+  top: 41vw;
+  left: 15vw;
+}
+
+}
